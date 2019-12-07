@@ -36,3 +36,4 @@ Is there anything else you'd like your instructor to know?
 12/6/19
 I spending the day going through a React Native turtorial on Udemy. 
 -Downloaded and installed Expo, IOS and Android simulators. 
+-researched hooks
