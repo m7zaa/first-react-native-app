@@ -29,11 +29,11 @@ Inkscape
 Sublime
 
 Is there anything else you'd like your instructor to know?
-
+Not now.
 
 
 
 12/6/19
-I spending the day going through a React Native turtorial on Udemy. 
+I'm spending the day going through a React Native tutorial on Udemy. 
 -Downloaded and installed Expo, IOS and Android simulators. 
--researched hooks
+-researched hooks and watched another tutorial on hooks.
